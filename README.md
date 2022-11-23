@@ -79,7 +79,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flamingoo22&show_icons=true&locale=en&layout=compact" alt="flamingoo22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamingoo22&show_icons=true&locale=en" alt="flamingoo22" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=flamingoo22&show_icons=true&locale=en" alt="flamingoo22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flamingoo22&" alt="flamingoo22" /></p>
 
