@@ -11,7 +11,7 @@
 - 📫 How to reach me: **yif.chu22@gmail.com**
 
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1RGUquEryzftkiLk4vkZoyu3TU58Ec6jF/view?usp=sharing">Yifan's Resume</a>
-- ⚡ Fun fact About Me: **I once made 150k gain in 3 days with option trading.**
+- ⚡ Fun fact About Me: **Enjoy calm music and paintings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
